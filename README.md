@@ -1,2 +1,3 @@
-# -12-BinarySearchTree-Template
-Template zur Implementtierung von und den Umgang mit einem binären Suchbaum
+# -12-BinarySearchTree
+Projekt zu binären Suchbäumen
+
